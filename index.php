@@ -2,7 +2,7 @@
 /*
 Plugin Name: Related Post Inside
 Plugin URI: http://www.h2cweb.net/
-Description: Expand Portfolio plugin for wordpress.
+Description: Related Post Inside plugin allows you to insert related posts inside of Posts. Related Post Inside plugin will make your website more SEO friendly, increase post views dramatically. Makes your blogging career more useful and very fast blogging.
 Author: Md. Liton Arefin
 Author URI: http://www.h2cweb.net
 Version: 1.0
