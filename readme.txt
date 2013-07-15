@@ -58,8 +58,8 @@ This plugin is licensed under the [Apache License, Version 2.0](http://www.apach
 
 = Features and Supports =
 
-**Does Related Post Inside Plugin supports edit Post view Numbers?**
-Yes it does. You can change Post view Numbers as per as you want.
+1. Does Related Post Inside Plugin supports edit Post view Numbers? 
+- Yes it does. You can change Post view Numbers as per as you want. 
 
-**Does Related Post Inside Plugin supports shortcodes?**
-Yes, you need a shortcodes [rpi] to use Related Post Inside Plugin.
+2. Does Related Post Inside Plugin supports shortcodes?**
+- Yes, you need a shortcodes [rpi] to use Related Post Inside Plugin.
